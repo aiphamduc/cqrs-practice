@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\orderapi\\handlers\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|solutionrelative:handlers\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\orderapi\\handlers\\getordersummariesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|solutionrelative:handlers\\getordersummariesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\orderapi\\handlers\\getorderbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|solutionrelative:handlers\\getorderbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\orderapi\\projections\\ordercreatedprojectionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|solutionrelative:projections\\ordercreatedprojectionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\orderapi\\events\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|solutionrelative:events\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\orderapi\\queries\\getordersummariesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|solutionrelative:queries\\getordersummariesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\orderapi\\queries\\getorderbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|solutionrelative:queries\\getorderbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\orderapi\\events\\inprocesseventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|solutionrelative:events\\inprocesseventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\orderapi\\events\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|solutionrelative:events\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\orderapi\\data\\readdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|solutionrelative:data\\readdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\orderapi\\data\\writedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|solutionrelative:data\\writedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\orderapi\\events\\consoleeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|solutionrelative:events\\consoleeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\orderapi\\events\\ieventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|solutionrelative:events\\ieventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\orderapi\\dtos\\ordersummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|solutionrelative:dtos\\ordersummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\orderapi\\commands\\createordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4863A1-F503-EA5A-B4BE-BEA33DE72D47}|OrderAPI.csproj|solutionrelative:commands\\createordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Handlers\\CreateOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\CreateOrderCommandHandler.cs",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Handlers\\CreateOrderCommandHandler.cs",
+              "RelativeToolTip": "Handlers\\CreateOrderCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T09:00:55.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetOrderByIdQuery.cs",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Queries\\GetOrderByIdQuery.cs",
+              "RelativeDocumentMoniker": "Queries\\GetOrderByIdQuery.cs",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Queries\\GetOrderByIdQuery.cs",
+              "RelativeToolTip": "Queries\\GetOrderByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:36:12.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderCreatedProjectionHandler.cs",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Projections\\OrderCreatedProjectionHandler.cs",
+              "RelativeDocumentMoniker": "Projections\\OrderCreatedProjectionHandler.cs",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Projections\\OrderCreatedProjectionHandler.cs",
+              "RelativeToolTip": "Projections\\OrderCreatedProjectionHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T16:12:49.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetOrderByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Handlers\\GetOrderByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\GetOrderByIdQueryHandler.cs",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Handlers\\GetOrderByIdQueryHandler.cs",
+              "RelativeToolTip": "Handlers\\GetOrderByIdQueryHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T09:00:44.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetOrderSummariesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Handlers\\GetOrderSummariesQueryHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\GetOrderSummariesQueryHandler.cs",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Handlers\\GetOrderSummariesQueryHandler.cs",
+              "RelativeToolTip": "Handlers\\GetOrderSummariesQueryHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:36:17.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:24:44.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Events\\OrderCreatedEvent.cs",
+              "RelativeDocumentMoniker": "Events\\OrderCreatedEvent.cs",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Events\\OrderCreatedEvent.cs",
+              "RelativeToolTip": "Events\\OrderCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T16:28:41.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-06T15:54:45.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WriteDBContext.cs",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Data\\WriteDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\WriteDBContext.cs",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Data\\WriteDBContext.cs",
+              "RelativeToolTip": "Data\\WriteDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:57:11.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReadDbContext.cs",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Data\\ReadDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ReadDbContext.cs",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Data\\ReadDbContext.cs",
+              "RelativeToolTip": "Data\\ReadDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:57:25.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetOrderSummariesQuery.cs",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Queries\\GetOrderSummariesQuery.cs",
+              "RelativeDocumentMoniker": "Queries\\GetOrderSummariesQuery.cs",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Queries\\GetOrderSummariesQuery.cs",
+              "RelativeToolTip": "Queries\\GetOrderSummariesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:36:06.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEventHandler.cs",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Events\\IEventHandler.cs",
+              "RelativeDocumentMoniker": "Events\\IEventHandler.cs",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Events\\IEventHandler.cs",
+              "RelativeToolTip": "Events\\IEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T16:11:21.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InProcessEventPublisher.cs",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Events\\InProcessEventPublisher.cs",
+              "RelativeDocumentMoniker": "Events\\InProcessEventPublisher.cs",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Events\\InProcessEventPublisher.cs",
+              "RelativeToolTip": "Events\\InProcessEventPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T16:15:24.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConsoleEventPublisher.cs",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Events\\ConsoleEventPublisher.cs",
+              "RelativeDocumentMoniker": "Events\\ConsoleEventPublisher.cs",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Events\\ConsoleEventPublisher.cs",
+              "RelativeToolTip": "Events\\ConsoleEventPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:46:16.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEventPublisher.cs",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Events\\IEventPublisher.cs",
+              "RelativeDocumentMoniker": "Events\\IEventPublisher.cs",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Events\\IEventPublisher.cs",
+              "RelativeToolTip": "Events\\IEventPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:43:09.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderSummaryDto.cs",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Dtos\\OrderSummaryDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\OrderSummaryDto.cs",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Dtos\\OrderSummaryDto.cs",
+              "RelativeToolTip": "Dtos\\OrderSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:36:25.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateOrderCommandValidator.cs",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Commands\\CreateOrderCommandValidator.cs",
+              "RelativeDocumentMoniker": "Commands\\CreateOrderCommandValidator.cs",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\cqrs\\OrderAPI\\Commands\\CreateOrderCommandValidator.cs",
+              "RelativeToolTip": "Commands\\CreateOrderCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T10:10:03.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
